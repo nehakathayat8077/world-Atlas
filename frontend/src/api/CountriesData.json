@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "countryname": "India",
+    "capital": "New Delhi",
+    "population": 1450936000,
+    "region": "Asia",
+    "flagimage": "https://flagcdn.com/w320/in.png",
+    "interestingFact": "India is the world's most populous country."
+  },
+  {
+    "id": 2,
+    "countryname": "United States",
+    "capital": "Washington, D.C.",
+    "population": 340110988,
+    "region": "North America",
+    "flagimage": "https://flagcdn.com/w320/us.png",
+    "interestingFact": "The United States has 50 states."
+  },
+  {
+    "id": 3,
+    "countryname": "China",
+    "capital": "Beijing",
+    "population": 1408975000,
+    "region": "Asia",
+    "flagimage": "https://flagcdn.com/w320/cn.png",
+    "interestingFact": "The Great Wall of China is one of the world's most famous landmarks."
+  },
+  {
+    "id": 4,
+    "countryname": "Japan",
+    "capital": "Tokyo",
+    "population": 123975371,
+    "region": "Asia",
+    "flagimage": "https://flagcdn.com/w320/jp.png",
+    "interestingFact": "Japan consists of thousands of islands."
+  },
+  {
+    "id": 5,
+    "countryname": "Brazil",
+    "capital": "Brasília",
+    "population": 211998573,
+    "region": "South America",
+    "flagimage": "https://flagcdn.com/w320/br.png",
+    "interestingFact": "Brazil is home to a large part of the Amazon rainforest."
+  },
+  {
+    "id": 6,
+    "countryname": "Germany",
+    "capital": "Berlin",
+    "population": 83516593,
+    "region": "Europe",
+    "flagimage": "https://flagcdn.com/w320/de.png",
+    "interestingFact": "Germany is famous for its castles, automobiles, and Oktoberfest."
+  },
+  {
+    "id": 7,
+    "countryname": "France",
+    "capital": "Paris",
+    "population": 68551653,
+    "region": "Europe",
+    "flagimage": "https://flagcdn.com/w320/fr.png",
+    "interestingFact": "The Eiffel Tower is one of the most recognizable landmarks in France."
+  },
+  {
+    "id": 8,
+    "countryname": "Australia",
+    "capital": "Canberra",
+    "population": 27200000,
+    "region": "Australia",
+    "flagimage": "https://flagcdn.com/w320/au.png",
+    "interestingFact": "Australia is both a country and a continent."
+  },
+  {
+    "id": 9,
+    "countryname": "Canada",
+    "capital": "Ottawa",
+    "population": 41288599,
+    "region": "North America",
+    "flagimage": "https://flagcdn.com/w320/ca.png",
+    "interestingFact": "Canada has the world's longest coastline."
+  },
+  {
+    "id": 10,
+    "countryname": "Egypt",
+    "capital": "Cairo",
+    "population": 116538258,
+    "region": "Africa",
+    "flagimage": "https://flagcdn.com/w320/eg.png",
+    "interestingFact": "Egypt is home to the ancient pyramids of Giza."
+  },
+  {
+    "id": 11,
+    "countryname": "Italy",
+    "capital": "Rome",
+    "population": 58914623,
+    "region": "Europe",
+    "flagimage": "https://flagcdn.com/w320/it.png",
+    "interestingFact": "Italy is home to famous landmarks such as the Colosseum and the Leaning Tower of Pisa."
+  },
+  {
+    "id": 12,
+    "countryname": "South Africa",
+    "capital": "Pretoria",
+    "population": 63442228,
+    "region": "Africa",
+    "flagimage": "https://flagcdn.com/w320/za.png",
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 13,
+    "countryname": "Mexico",
+    "capital": "Mexico City",
+    "population": 130262216,
+    "region": "North America",
+    "flagimage": "https://flagcdn.com/w320/mx.png",
+    "interestingFact": "Mexico is famous for its ancient Mayan and Aztec civilizations."
+  },
+  {
+    "id": 14,
+    "countryname": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45538401,
+    "region": "South America",
+    "flagimage": "https://flagcdn.com/w320/ar.png",
+    "interestingFact": "Argentina is the birthplace of the famous tango dance."
+  },
+  {
+    "id": 15,
+    "countryname": "South Korea",
+    "capital": "Seoul",
+    "population": 51744876,
+    "region": "Asia",
+    "flagimage": "https://flagcdn.com/w320/kr.png",
+    "interestingFact": "South Korea is known for K-pop, technology, and its vibrant cities."
+  }
+]
