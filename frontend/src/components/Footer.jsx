@@ -6,25 +6,25 @@ const Footer = () => {
     <div className='bg-gray-950  text-white flex border-t border-gray-500
     px-3 py-2
     flex-row md:justify-around justify-between items-center'>
-      <div className='flex gap-4 items-center justify-center'>
+      <div className='flex flex-col md:flex-row gap-4 items-center justify-center'>
         <LocateIcon className='text-blue-900 font-bold'/>
         <div>
-          <h1 className='font-bold'>Find Us</h1>
-          <p className='text-gray-500'>Delhi , India</p>
+          <h1 className='flex justify-center font-bold'>Find Us</h1>
+          <p className='text-sm md:text-base text-gray-500'>Delhi , India</p>
         </div>
       </div>
-      <div className='flex gap-4 items-center justify-center'>
+      <div className='flex flex-col md:flex-row flex-col md:flex-row gap-4 items-center justify-center'>
         <Phone className='text-blue-900 font-bold'/>
         <div>
-          <h1 className='font-bold'>Call Us</h1>
-          <p className='text-gray-500'>8077XXXXX</p>
+          <h1 className=' flex justify-center font-bold'>Call Us</h1>
+          <p className='text-sm md:text-base text-gray-500'>8077XXXXX</p>
         </div>
       </div>
-      <div className='flex gap-4 items-center justify-center'>
-        <MailIcon className='text-blue-900 font-bold'/>
+      <div className='flex flex-col md:flex-row gap-4 items-center justify-center'>
+        <MailIcon className='text-sm md:text-base text-blue-900 font-bold'/>
         <div>
-          <h1 className='font-bold'>Mail Us</h1>
-          <p className='text-gray-500'>NehaKathayat@gmail.com</p>
+          <h1 className='font-bold flex justify-center'>Mail Us</h1>
+          <p className= 'text-sm md:text-base text-gray-500'>NehaKathayat@gmail.com</p>
         </div>
       </div>
     </div>
